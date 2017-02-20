@@ -1,3 +1,5 @@
+![Screenshot]https://github.com/sarakjaer/Miniex02/blob/gh-pages/Cartoon%2C%20miniex02/Sk%C3%A6rmbillede%202017-02-20%20kl.%2010.11.34.png
+
 # Miniex02
 My first program
 * Describe your coding process
@@ -19,3 +21,5 @@ My first program
     An error isn’t necessarily something that makes your program crash. A small error can also be a big deal in programming. 
     The small error is shown in the final result and therefore disturb the eye. It can be a line or an figure
     that is placed wrong, like shown in my program. 
+    
+   
