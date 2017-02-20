@@ -15,7 +15,7 @@ My first program
     And that is a big win for one who never thought that I was going to learn this. 
     It makes you wanna do more and learn more, by doing. 
     
- * What constitutes a program?
+* What constitutes a program?
     * A program it a set of codes which forms a program as a final result. 
     At first you have to insert the basics codes to even start making different figures and colors. 
 
