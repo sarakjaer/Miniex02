@@ -1,7 +1,8 @@
-![Screenshot](https://github.com/sarakjaer/Miniex02/blob/gh-pages/Cartoon%2C%20miniex02/Sk%C3%A6rmbillede%202017-02-20%20kl.%2010.11.34.png)
-
 # Miniex02
 My first program
+
+![Screenshot](https://github.com/sarakjaer/Miniex02/blob/gh-pages/Cartoon%2C%20miniex02/Sk%C3%A6rmbillede%202017-02-20%20kl.%2010.11.34.png)
+
 * Describe your coding process
     * In the beginning was it difficult to learn how to program. 
     It was a whole new language and a very difficult one at first. 
